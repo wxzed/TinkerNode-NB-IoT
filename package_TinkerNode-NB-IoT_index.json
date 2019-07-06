@@ -13,7 +13,7 @@
             "online": ""
           }, 
           "url": "http://download3.dfrobot.com.cn/TinkerNode-NB-IoT/DFRobot_TinkerNode-NB-IoT-0.0.3.zip", 
-          "checksum": "SHA-256:4c6ae244902ce1e42805f6e8bb01de1787186b815f7c49e6c11a34e334809477", 
+          "checksum": "SHA-256:a0c3ca792b097fd75ad5a1a00583b75bd5033dac2cb9865e2b7dc5bac477c653", 
           "version": "0.0.3", 
           "architecture": "esp32", 
           "archiveFileName": "DFRobot_TinkerNode_NB-IoT-0.0.3.zip", 
@@ -22,7 +22,7 @@
               "name": "TinkerNode_NB-IoT"
             }
           ], 
-          "size": "30769342", 
+          "size": "30770400", 
           "toolsDependencies": [
             {
               "packager": "TinkerNode_NB-IoT", 
